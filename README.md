@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rehaanhan/rehaanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.\
+
+Saya seorang **Mahasiswa** di Univ. Muhammadiyah Bandung\
+
+Saya juga salah satu peserta Bangkit Academy 2023 yang deselenggarakan oleh [dicoding](https://www.dicoding.com/)\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raihan-mubarok/)ku ya.
+
