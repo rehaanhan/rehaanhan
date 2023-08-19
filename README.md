@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Halo semua! 
 
-Perkenalkan nama saya **Raihan Mubarok**.\
+Perkenalkan nama saya **Raihan Mubarok**.
 
-Saya seorang **Mahasiswa** di Univ. Muhammadiyah Bandung\
+Saya seorang **Mahasiswa** di Univ. Muhammadiyah Bandung
 
-Saya juga salah satu peserta Bangkit Academy 2023 yang deselenggarakan oleh [dicoding](https://www.dicoding.com/)\
+Saya juga salah satu peserta Bangkit Academy 2023 yang deselenggarakan oleh [dicoding](https://www.dicoding.com/)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raihan-mubarok/)ku ya.
 
