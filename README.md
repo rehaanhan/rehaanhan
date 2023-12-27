@@ -20,7 +20,7 @@ Perkenalkan nama saya **Raihan Mubarok**.
 
 Saya seorang **Mahasiswa** di Univ. Muhammadiyah Bandung
 
-Saya juga salah satu peserta Bangkit Academy 2023 yang deselenggarakan oleh [dicoding](https://www.dicoding.com/)
+and Mobile Development Cohort at Bangkit 2023
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
